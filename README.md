@@ -12,6 +12,7 @@ A basic TODO list app with these basic requirements:
 
 - It should show a list of tasks.
 - Each task in the list should display a text (the actual task to do), and an status (pending or done).
+- User should be able to add new tasks.
 - User should be able to toggle the status of each task.
 - User should be able to edit the text of each task.
 
